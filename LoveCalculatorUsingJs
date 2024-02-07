@@ -1,0 +1,4 @@
+var name1 = prompt("Enter name one");
+var name2 = prompt("Enter name two");
+var lovePerc= Math.round(Math.random()*100)
+console.log ("love percentage of " + name1 + " and " + name2 + " is " + lovePerc +"%")
